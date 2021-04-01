@@ -1,0 +1,6 @@
+-
+  name: Test connectivity to k8s servers
+  hosts: k8s
+  tasks:
+    - name: Ping Test
+      ping:
