@@ -1,0 +1,5 @@
+#k8s
+[k8s]
+k8smaster	ansible_host=192.168.56.2
+k8snode01	ansible_host=192.168.56.3
+k8snode02	ansible_host=192.168.56.4
